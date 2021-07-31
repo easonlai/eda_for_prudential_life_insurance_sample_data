@@ -19,6 +19,7 @@ Data Fields Description
 * Response, This is the target variable, an ordinal variable relating to the final decision associated with an application
 
 
+File Content Description
 * data/prudential_life_insurance_sample_data.csv <-- Sample data from Kaggle
 * eda_for_prudential_life_insurance_sample_data.ipynb <-- Notebook sample of EDA
 
